@@ -1,7 +1,7 @@
 [![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=1CA2F1)](https://www.facebook.com/TonTai.0805/)
   
   
-  <img src="https://images.pexels.com/photos/4776/man-sunglasses-art-graffiti.jpg?cs=srgb&dl=pexels-picography-4776.jpg&fm=jpg" alt="NeroDesu" width="500">
+  <img src="https://tontai-196367064.imgix.net/%E3%83%BC%E3%81%B8%E3%83%BC.png" alt="NeroDesu" width="500">
    <p>Hey there 👋</p>
   <p> I’m NeroDesu, a web-designer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
   </p>
